@@ -1,6 +1,8 @@
 # cpp_tcp_local_chatrooms
 C++ implementation for TCP and LAN based Multi-Client Chat Server with Group Support for Selective Broadcasts.
 
+Most of the implementation for functionalities lies in server.c
+
 Handles max 5 clients.
 	Source Files: server.c client.c
 
